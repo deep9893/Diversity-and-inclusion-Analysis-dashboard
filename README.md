@@ -23,9 +23,9 @@ I have learned the following concepts:
 
 
 KPI to find out
-# of men
-# of women
-# of leavers
+No of men
+No of women
+No of leavers
 % employees promoted (FY21)
 % of women promoted
 % of hires men
