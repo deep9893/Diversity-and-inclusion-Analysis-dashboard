@@ -23,14 +23,23 @@ I have learned the following concepts:
 
 
 KPI to find out
+
 No of men
+
 No of women
+
 No of leavers
+
 % employees promoted (FY21)
+
 % of women promoted
+
 % of hires men
+
 % of hires women
+
 % turnover 
+
 Average performance rating: men
 Average Performance rating: women
 
